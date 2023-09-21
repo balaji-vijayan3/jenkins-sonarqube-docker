@@ -1,0 +1,3 @@
+test for unstage
+Test for commit
+test for git push
