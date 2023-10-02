@@ -1,0 +1,2 @@
+bridge network connect the Namespace or container in the node.
+which is locate in private network in the host.
